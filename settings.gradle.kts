@@ -1,0 +1,1 @@
+rootProject.name = "heic-not-beit-copy"
